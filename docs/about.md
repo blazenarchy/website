@@ -3,8 +3,6 @@ layout: page
 navname: About
 ---
 
-# Moonrise MC
+# Blazenarchy
 
-A simple, flexible website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+An anarchy themed anarchy server running Minecraft 1.16 (with ViaVersion enabled) join us to have fun, no rules!
